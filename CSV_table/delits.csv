@@ -1,0 +1,50 @@
+code_delits,type_delits
+2,Homicides pour voler et à l'occasion de vols
+3,Homicides pour d'autres motifs
+4,Tentatives d'homicides pour voler et à l'occasion de vols
+5,Tentatives homicides pour d'autres motifs
+6,Coups et blessures volontaires suivis de mort
+7,Autres coups et blessures volontaires criminels ou correctionnels
+8,Prises d'otages à l'occasion de vols
+10,Sequestrations
+11,Menaces ou chantages pour extorsion de fonds
+12,Menaces ou chantages dans un autre but
+14,Violations de domicile
+17,Vols à main armée contre des entreprises de transports de fonds
+18,Vols à main armée contre des particuliers à leur domicile
+20,Vols avec armes blanches contre des établissements financierscommerciaux ou industriels
+21,Vols avec armes blanches contre des particuliers à leur domicile
+22,Autres vols avec armes blanches
+23,Vols violents sans arme contre des établissements financiers commerciaux ou industriels
+24,Vols violents sans arme contre des particuliers à leur domicile
+25,Vols violents sans arme contre des femmes sur voie publique ou autre lieu public
+26,Vols violents sans arme contre d'autres victimes
+27,Cambriolages de locaux d'habitations principales
+28,Cambriolages de résidences secondaires
+29,Camb de  locaux industriels commerciaux ou financiers
+30,Cambriolages d'autres lieux
+31,Vols avec entrée par ruse en tous lieux
+32,Vols à la tire
+33,Vols à l'étalage
+34,Vols de véhicules de transport avec frêt
+35,Vols d'automobiles
+36,Vols de véhicules motorisés à 2 roues
+37,Vols à la roulotte
+38,Vols d'accessoires sur véhicules à moteur immatriculés
+41,Autres vols simples contre des établissements publics ou privés
+42,Autres vols simples contre des particuliers dans  deslocaux privés
+43,Autres vols simples contre des particuliers dans des locaux ou lieux publics
+46,Viols sur des majeurs
+47,Viols sur des mineurs
+48,Harcèlements sexuels et autres agressions sexuelles contre des majeurs
+49,Harcèlements sexuels et autres agressions sexuelles contre des mineurs
+50,Atteintes sexuelles
+55,Trafic et revente sans usage de stupéfiants
+56,Usage revente de stupéfiants
+57,Usage de stupéfiants
+63,Incendies volontaires de biens privés
+66,Autres destructions er dégradations de biens publics
+67,Autres destructions er dégradations de biens privés
+68,Destructions et dégradations de véhicules privés
+74,Port ou détention armes prohibées
+79,Atteintes à l'environnement

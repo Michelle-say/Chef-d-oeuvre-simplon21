@@ -1,0 +1,704 @@
+code_cam,implantation,precision_implantation,date_implantation,lat,lon,code_annee,code_postal
+1051,Rue Saint-Denis  rue de Rivoli,croisement,08/07/16,48.85875016,2.34750188,5,75001
+1055,Rue Montmartre  rue de Turbigo,croisement,10/03/17,48.8632432,2.3461244,6,75001
+1056,Rue Montorgueil  rue de Turbigo,croisement,10/03/17,48.8632732,2.3462907000000004,6,75001
+1057,Quai François Mitterrand  rue de l'Amiral de Coligny,croisement,08/06/18,48.858989799999996,2.339848,7,75001
+2006,Boulevard des Capucines  rue Scribe,croisement,Début 2019,48.8702501,2.329943,10,75002
+2033,Rue de la Lune  rue Notre-Dame de Bonne Nouvelle,croisement,25/11/16,48.8697696,2.349715,5,75002
+4051,Rue des Francs Bourgeois  rue Vieille du Temple,croisement,24/11/16,48.8586836,2.3587623,5,75004
+4058,Rue de Sully  boulevard Henri IV,croisement,08/07/16,48.851188,2.3626942000000004,5,75004
+5013,Place Alphonse Laveran  rue Saint-Jacques,croisement,23/03/17,48.840843154665,2.34098007029582,6,75005
+5051,Rue du Fouarre  rue Lagrange,croisement,21/12/16,48.8517007,2.3477327,5,75005
+5053,Rue Saint-Jacques  rue Soufflot,croisement,16/05/18,48.846796000000005,2.3433551,7,75005
+5054,Rue Poliveau  rue Geoffroy Saint-Hilaire,croisement,22/07/16,48.8397034,2.356594,5,75005
+5058,Rue Pierre Nicole  rue du Val de Grâce,croisement,30/09/16,48.84118170000001,2.339799,5,75005
+7092,Rue de Grenelle  rue des Saints-Pères,croisement,19/09/18,48.8527255,2.3293937999999996,7,75007
+8096,Place de la Concorde  avenue Gabriel,croisement,13/07/18,48.8670939,2.3206535,7,75008
+8107,Rue du Faubourg Saint-Honoré  avenue Matignon,croisement,07/04/17,48.8717648,2.3141792999999997,6,75008
+8114,Avenue George V  rue François 1er,croisement,09/11/17,48.8700562,2.3009879,6,75008
+8122,Avenue Montaigne  rue du Boccador,croisement,20/02/17,48.8658456,2.3040070333333302,6,75008
+9062,Rue La Bruyère  rue Notre-Dame de Lorette,croisement,25/11/16,48.878834399999995,2.3370284,5,75009
+10036,Boulevard de la Chapelle  rue Guy Patin,croisement,Début 2019,48.8837384,2.3512804,10,75010
+10067,Rue de Paradis  rue Martel,croisement,14/06/17,48.8747743,2.3534685,6,75010
+10072,Rue Saint-Maur  rue du Buisson Saint-Louis,croisement,04/08/16,48.871783799999996,2.3719804,5,75010
+10557,Boulevard de la Bastille  rue Jules César,croisement,29/06/12,48.84878345,2.3679398,1,75012
+10594,Avenue Gambetta  boulevard Mortier  rue de Belleville,croisement,14/12/12,48.8770052,2.4066397999999998,1,75020
+10630,Place Jules Joffrin  rue Hermel,croisement,11/05/12,48.8926182,2.3451014999999997,1,75018
+10756,Rue Pierre Fontaine  rue Jean-Baptiste Pigalle,croisement,06/07/12,48.8804359,2.3350485,1,75009
+10966,Rue du Faubourg Saint-Martin  rue La Fayette,croisement,12/10/12,48.8816108,2.3657877,1,75010
+11218,Rue Rambuteau  rue Beaubourg,croisement,21/12/11,48.861238125,2.35345275,0,75004
+11498,Rue Rambuteau  boulevard de Sébastopol,croisement,03/02/12,48.8619936571429,2.3501341,1,75001
+11751,Place de Colombie  boulevard Suchet  boulevard Lannes  Porte de la Muette,croisement,09/11/12,48.862590175,2.268078425,1,75016
+12003,Rue Villiot  rue de Bercy,croisement,31/05/18,48.8421014,2.3764201000000003,7,75012
+12090,Rue Jacques Hillairet  rue Albinoni,croisement,20/10/16,48.8429924,2.3883015,5,75012
+12116,Boulevard de Strasbourg  rue Saint-Laurent,croisement,20/04/12,48.8754828,2.35773035,1,75010
+12312,Rue Blainville  place de la Contrescarpe,croisement,19/10/12,48.8445074,2.3492551,1,75005
+12509,Boulevard Saint-Germain  boulevard Raspail,croisement,23/03/12,48.8562032666667,2.32567686666667,1,75007
+12569,Rue des Frères d'Astier de la Vigerie  rue Simone Weil,croisement,01/06/12,48.8241148,2.3634942000000003,1,75013
+12735,Rue Louis Lumière  rue Louis Ganne,croisement,19/10/12,48.8635232,2.4107317999999998,1,75020
+12742,Place de la Bataille de Stalingrad  rue du Faubourg Saint-Martin,croisement,16/05/14,48.8838514,2.3685981,3,75010
+12969,Rue Archereau  rue de Crimée,croisement,31/08/12,48.892156299999996,2.3750776,1,75019
+13067,Boulevard Raspail  rue de Rennes,croisement,18/05/12,48.8479939,2.3278513,1,75006
+13075,Rue du Château des Rentiers  rue Ricaut,croisement,01/08/16,48.830247,2.3622164,5,75013
+13077,Boulevard Masséna  avenue de la Porte de Vitry,croisement,14/11/16,48.8240531,2.3770382000000003,5,75013
+13081,Rue Bourgon  rue du Moulin de la Pointe,croisement,30/11/16,48.8229657,2.3565767,5,75013
+13084,Rue de Tolbiac  rue Bobillot,croisement,10/03/17,48.825812299999996,2.3503781000000004,6,75013
+13086,Rue de la Glacière  boulevard Arago,croisement,24/02/17,48.83495429999999,2.3449902999999996,6,75013
+13087,Rue Jean-Baptiste Berlier  allée Paris-Ivry,croisement,inconnue,48.825938799999996,2.3850316000000005,10,75013
+13273,Rue Bargue  rue Platon,croisement,21/12/11,48.8376062,2.3095789,0,75015
+13412,Pont Charles de Gaulle  quai d'Austerlitz,croisement,18/01/13,48.84194829999999,2.3678915000000003,2,75013
+13871,Boulevard Voltaire  rue Jean-Pierre Timbaud,croisement,01/03/13,48.865185100000005,2.3677758,2,75011
+14001,Avenue du Maine  rue de la Gaîté,croisement,inconnue,48.8385148,2.3226197,10,75014
+14064,Avenue du Général Leclerc  rue Mouton Duvernet,croisement,03/07/18,48.8313576,2.3299279999999998,7,75014
+14251,Rue du Cange  rue de Gergovie,croisement,17/02/12,48.833930200000005,2.3144351000000003,1,75014
+14293,Boulevard Diderot  rue Michel Chasles,croisement,06/04/12,48.845931799999995,2.3738871,1,75012
+14429,Quai Saint-Exupéry  rue du Général Niox,croisement,15/06/12,48.8364026,2.2637945,1,75016
+14530,Boulevard Flandrin  avenue Henri Martin,croisement,17/02/12,48.8640939,2.2721478999999998,1,75016
+14591,Rue Papin  rue Saint-Martin,croisement,22/02/13,48.86674779999999,2.3542308,2,75003
+14707,Avenue d'Italie  boulevard Kellermann  boulevard Massena,croisement,07/09/12,48.8190558666667,2.3594861666666698,1,75013
+14821,Rue du Département  rue de Tanger,croisement,04/05/12,48.8848699,2.3674155,1,75019
+15113,Rue Brancion  rue de Vouillé,croisement,07/11/16,48.834725299999995,2.3051593999999995,5,75015
+15518,Rue de Rivoli  rue Saint-Martin,croisement,21/12/11,48.85804106,2.3496671,0,75004
+15868,Rue des Peupliers  rue du docteur Tuffier,croisement,07/09/12,48.822151700000006,2.3526895,1,75013
+16005,Avenue du Général Mangin  avenue de Lamballe,croisement,27/02/17,48.8544989,2.2813847999999997,6,75016
+16006,Avenue de Lamballe  rue Raynouard,croisement,27/02/17,48.8543589,2.2784069,6,75016
+16071,Avenue Chantemesse  avenue du Maréchal Fayolle,croisement,10/08/16,48.867253999999996,2.27019425,5,75016
+16092,Rue Benjamin Franklin  rue Le Tasse,croisement,13/02/18,48.8604234,2.2859032000000004,7,75016
+16109,Avenue Kléber  rue Boissière,croisement,23/03/17,48.86681256,2.28994328,6,75016
+16137,Rue du Sergent Maginot  rue de l'Arioste,croisement,02/09/16,48.8413917,2.2549304,5,75016
+16146,Boulevard Murat  quai Saint-Exupéry,croisement,04/11/16,48.8387501,2.2663142999999994,5,75016
+16178,Rue Oberkampf  boulevard Voltaire,croisement,05/07/13,48.8637623666667,2.3701152000000003,2,75011
+16244,Avenue de la Porte d'Ivry  avenue Claude Régaud,croisement,19/10/12,48.82026106,2.37181383,1,75013
+16458,Avenue de la Porte d'Asnières  boulevard Berthier,croisement,09/03/12,48.890136975,2.303881325,1,75017
+16543,Place Paul Claudel  rue Rotrou,croisement,08/05/15,48.849216299999995,2.33842015,4,75006
+16661,Rue de Tanger  rue Riquet,croisement,09/01/15,48.8892514,2.3713185,4,75019
+16819,Rue des Pyramides  avenue de l'Opéra,croisement,06/07/12,48.8663093,2.3341623,1,75001
+17094,Rue des Batignolles  rue des Dames,croisement,08/12/16,48.8840369,2.3224277,5,75017
+17095,Rue de Prony  avenue de Wagram,croisement,18/11/16,48.8832695,2.3019395,5,75017
+17096,Rue Galvani  rue Laugier,croisement,07/12/16,48.8838563,2.2926662,5,75017
+17097,Avenue de Wagram  rue Rennequin,croisement,01/12/16,48.8804809,2.29965,5,75017
+17103,Quai Branly  avenue de Suffren,croisement,15/06/12,48.857476,2.2910098999999997,1,75007
+17129,Rue de Tlemcen  rue Duris,croisement,27/04/12,48.8648579,2.3879923,1,75020
+17435,Rue de Crimée  rue Manin,croisement,27/04/12,48.883031200000005,2.38552602,1,75019
+17849,Boulevard Suchet  rue Raffet  square TolstoÏ,croisement,30/03/12,48.8530352,2.2618853,1,75016
+18067,Place de La Chapelle  rue Pajol,croisement,inconnue,48.8848901,2.3604328999999997,10,75018
+18086,Rue Doudeauville  boulevard Barbès,croisement,14/11/16,48.88835455,2.349584175,5,75018
+18091,Rue Pajol  rue du Département  rue Philippe de Girard,croisement,31/01/17,48.886726200000005,2.3611517999999996,6,75018
+18093,Rue Pajol  rue Romy Schneider,croisement,inconnue,48.887995200000006,2.3619428,10,75018
+18115,Rue Labat  boulevard Barbès,croisement,14/11/16,48.88948305,2.349584925,5,75018
+18247,Rue des Francs Bourgeois  rue de Turenne,croisement,13/04/12,48.8564649,2.3642877,1,75003
+18452,Rue de l'Eure  rue Didot,croisement,24/02/12,48.8329865,2.3208964,1,75014
+18514,Boulevard des Batignolles  rue de Rome,croisement,03/02/12,48.8820708,2.32043973333333,1,75008
+18536,Avenue de la Porte d'Asnières  boulevard de Reims,croisement,18/05/12,48.89205820000001,2.3012707000000003,1,75017
+18695,Rue Saint-Didier  rue Mesnil,croisement,25/05/12,48.867076700000005,2.2836017999999996,1,75016
+18837,Avenue Corentin Cariou  quai de la Gironde,croisement,22/02/13,48.8959641411156,2.38376064236523,2,75019
+18838,Place Denfert-Rochereau  boulevard Saint-Jacques,croisement,27/01/12,48.83411552,2.3333461,1,75014
+18870,Rue Réaumur  rue Saint-Denis,croisement,21/12/11,48.866533399999994,2.3511319999999998,0,75002
+19067,Rue Botzaris  rue Fessart,croisement,06/07/12,48.8777126,2.3812652,1,75019
+19071,Boulevard Barbès  boulevard de Rochechouart,croisement,07/09/12,48.883854799999995,2.3494771,1,75018
+19081,Rue Euryale Dehaynin  rue Tandou,croisement,30/11/16,48.885713,2.3783368,5,75019
+19082,Rue Gaston Rebuffat  rue de Kabylie,croisement,16/09/16,48.8848334,2.368182,5,75019
+19084,Rue Bellot  rue d'Aubervilliers,croisement,16/12/16,48.886396399999995,2.3665467999999996,5,75019
+19103,Boulevard Macdonald  quai de la Gironde,croisement,17/08/16,48.8988761,2.3816695,5,75019
+19182,Avenue de Saint-Ouen  avenue de Clichy,croisement,20/01/12,48.8874983,2.3255897,1,75017
+19726,Rue Saint-Antoine  rue de Sévigné,croisement,03/02/12,48.855084000000005,2.3616775000000003,1,75004
+19779,Boulevard Poniatowski  rue Claude Decaen,croisement,07/12/12,48.83340985,2.40219765,1,75012
+19891,Place d'Italie  boulevard Vincent Auriol,croisement,21/12/11,48.8313813,2.35689036666667,0,75013
+19892,Place d'Iéna  avenue d'Iéna,croisement,18/05/12,48.8649246,2.2940525000000003,1,75016
+20002,Rue de Bagnolet  rue des Balkans,croisement,23/05/17,48.8617912,2.4058064999999997,6,75020
+20039,Rue de Bagnolet  rue des Orteaux,croisement,21/12/16,48.8570723,2.3981310000000002,5,75020
+20060,Rue Saint-Blaise  square des Cardeurs,croisement,22/09/16,48.8582,2.4068875,5,75020
+20070,Rue des Frères Flavien  avenue du Docteur Gley,croisement,20/04/17,48.8767956,2.4120082999999997,6,75020
+20072,Avenue Victor Hugo  rue de Presbourg,croisement,22/06/12,48.8729720666667,2.2931356,1,75016
+20075,Rue des Tourelles  passage des Tourelles,croisement,12/08/16,48.8747445,2.40456785,5,75020
+20077,Rue Duris  rue des Cendriers,croisement,30/11/16,48.865739399999995,2.3875096,5,75020
+20080,Rue Vitruve  rue des Orteaux,croisement,02/03/17,48.8565584,2.4022301,6,75020
+20276,Rue Duroc  boulevard des Invalides,croisement,21/09/12,48.84826985,2.3157321,1,75007
+20669,Boulevard Saint-Germain  quai de la Tournelle,croisement,13/04/12,48.8494029,2.3567895,1,75005
+20728,Rue Lamarck  rue du Chevalier de la Barre,croisement,31/08/12,48.8875305,2.3445272,1,75018
+20941,Place de la Bourse  rue Vivienne  rue Feydeau,croisement,24/02/12,48.8692109,2.3402663666666697,1,75002
+21067,Rue Oberkampf  boulevard de Belleville,croisement,27/07/12,48.867005299999995,2.3828597,1,75011
+21129,Place d'Estienne d'Orves  rue Saint-Lazare,croisement,19/10/12,48.8762484,2.33179065,1,75009
+21487,Rue de Châteaudun  rue Saint-Georges,croisement,31/05/13,48.876060700000004,2.3371321,2,75009
+22575,Rue de la Pompe  avenue Henri Martin,croisement,24/08/12,48.8640384,2.27746,1,75016
+22579,Rue Réaumur  boulevard de Sébastopol,croisement,20/07/12,48.86623205,2.3525252,1,75002
+22580,Rue de Babylone  rue Barbet de Jouy,croisement,25/05/12,48.851761200000006,2.3171235,1,75007
+22853,Rue Curial  rue Colette Magny,croisement,26/10/12,48.8955192,2.3751767000000004,1,75019
+22881,Boulevard Macdonald  quai de la Gironde,croisement,22/02/13,48.8988761,2.3816695,2,75019
+23535,Rue du Temple  rue Rambuteau,croisement,13/01/12,48.86065479999999,2.3551551,1,75003
+24120,Boulevard Victor  rue Lecourbe,croisement,inconnue,48.8353559,2.28099,10,75015
+24512,Boulevard de Strasbourg  boulevard de Magenta,croisement,inconnue,48.87480355,2.3574362,10,75010
+24647,Rue des Saints-Pères  boulevard Saint-Germain,croisement,inconnue,48.8544657,2.3304702,10,75006
+24660,Place Blanche  boulevard de Clichy  rue Lepic,croisement,inconnue,48.8838686375,2.33245035,10,75009
+25108,Rue Drouot  rue La Fayette  rue du Faubourg Montmartre,croisement,17/02/12,48.8750797,2.3409069,1,75009
+25120,Rue des Amandiers  rue des Cendriers,croisement,27/04/12,48.8662972,2.3896527,1,75020
+25240,Rue Compans  place des Fêtes,croisement,17/02/12,48.8774953,2.3937977000000004,1,75019
+25856,Rue de Crimée  avenue de Flandre,croisement,21/09/12,48.890662,2.37673,1,75019
+25902,Rue René Binet  rue Fernand Labori,croisement,27/04/12,48.89927479999999,2.3423571,1,75018
+26158,Boulevard de Courcelles  boulevard Malesherbes,croisement,28/06/13,48.8808474,2.3125429,2,75017
+26293,Rue d'Alsace-Lorraine  rue Gaston Pinot,croisement,30/03/12,48.883408700000004,2.3922086,1,75019
+26704,Rue d'Assas  rue de Rennes,croisement,21/09/12,48.8489755,2.3287367000000003,1,75006
+26709,Rue de Gramont  boulevard des Italiens,croisement,08/06/12,48.871461100000005,2.3370259,1,75002
+26718,Rue Juliette Dodu  avenue Claude Vellefaux,croisement,10/02/12,48.8740351,2.3703336,1,75010
+26787,Rue de Dunkerque  rue de Compiègne,croisement,13/04/12,48.88021005,2.35367165,1,75010
+27200,Avenue de Versailles  boulevard Exelmans,croisement,15/06/12,48.8407685333333,2.26512986666667,1,75016
+27296,Avenue de Versailles  boulevard Exelmans,croisement,15/06/12,48.8407685333333,2.26512986666667,1,75016
+27377,Rue de Turbigo  rue des Fontaines du Temple,croisement,18/05/12,48.8659179,2.3580936,1,75003
+27797,Rue du Faubourg du Temple  avenue Parmentier,croisement,19/10/12,48.869992700000005,2.3710329,1,75010
+27982,Rue du Faubourg Poissonnière  rue du Delta,croisement,19/06/15,48.8823973,2.3496702000000003,4,75009
+28130,Quai de la Marne  rue de Crimée,croisement,23/11/12,48.88818,2.3796279,1,75019
+28234,Boulevard de Magenta  rue La Fayette,croisement,08/11/13,48.8785378,2.3538871,2,75010
+28398,Boulevard de la Tour Maubourg  avenue de Tourville,croisement,03/02/12,48.8539940666667,2.30954653333333,1,75007
+28637,Rue Péan  boulevard Masséna,croisement,18/01/13,48.82225235,2.37166845,2,75013
+28849,Rue Stephenson  rue de Laghouat,croisement,25/01/13,48.888006,2.3562029,2,75018
+29297,Place de l'Hôtel de Ville  avenue Victoria,croisement,03/02/12,48.856767600000005,2.3510828999999998,1,75004
+29482,Rue d'Assas  rue Auguste Comte,croisement,24/08/12,48.8443847,2.3328866,1,75006
+29504,Boulevard Saint-Germain  rue de Bellechasse,croisement,27/01/12,48.8585104,2.3231292000000003,1,75007
+29730,Rue d'Alsace  rue du 8 Mai 1945,croisement,13/04/12,48.8762777,2.3574368999999997,1,75010
+29963,Boulevard Beaumarchais  rue Saint-Sébastien,croisement,17/08/12,48.8606498,2.3673344,1,75003
+30567,Avenue Parmentier  rue Oberkampf,croisement,25/05/12,48.8650641,2.3747379,1,75011
+30637,Rue de Charonne  avenue Ledru-Rollin,croisement,01/06/12,48.8532731,2.3772848,1,75011
+30736,Rue de Sèvres  rue du Bac,croisement,23/03/12,48.8502335,2.3241400000000003,1,75007
+30906,Place Henri Frenay  rue Roland Barthes,croisement,20/07/12,48.844556,2.3773117000000004,1,75012
+30922,Quai François Mauriac  passerelle Simone de Beauvoir,croisement,13/07/12,48.8345326957541,2.37675026552141,1,75013
+31195,Quai de Conti  pont Neuf,croisement,17/02/12,48.856131299999994,2.3404015,1,75006
+31606,Rue de la Coutellerie  avenue Victoria,croisement,21/12/11,48.8572365,2.3495508,0,75004
+31706,Place de la Bourse  rue du Quatre Septembre,croisement,21/12/11,48.868912200000004,2.3401064,0,75002
+32355,Rue Boulay  rue de la Jonquière,croisement,21/12/11,48.8948384,2.3184424,0,75017
+33168,Rue du Cardinal Lemoine  rue Monge,croisement,21/12/11,48.8466037,2.3516348999999996,0,75005
+33278,Avenue Philippe Auguste  boulevard de Charonne,croisement,22/06/12,48.85832448,2.38975308,1,75011
+33282,Avenue du Maréchal Galliéni  rue de l'Université,croisement,27/04/12,48.8610518,2.3132382000000002,1,75007
+33506,Rue d'Alésia  rue de la Tombe Issoire,croisement,30/03/12,48.8278106,2.3325261000000004,1,75014
+33599,Pont Charles de Gaulle  quai de la Rapée,croisement,11/05/12,48.8431945,2.370327,1,75012
+33823,Avenue Victor Hugo  place Victor Hugo,croisement,21/12/11,48.8697071666667,2.2854217999999995,0,75016
+34611,Boulevard Sérurier  rue de Périgueux,croisement,21/09/12,48.884614299999996,2.3945146,1,75019
+34698,Rue Pierre Lescot  rue de Turbigo,croisement,27/01/12,48.8637682,2.3491066000000003,1,75001
+34724,Rue Chauchat  rue Rossini,croisement,10/02/12,48.8730447,2.3394966,1,75009
+34892,Place du Général Cochet  boulevard Sérurier,croisement,27/07/12,48.8865484,2.394123025,1,75019
+35012,Place Claude Bourdet  rue des Cordelières  rue Corvisart,croisement,21/12/11,48.832818200000006,2.3471826,0,75013
+35021,Rue Ordener  rue des Poissonniers,croisement,25/05/12,48.8911829,2.351628,1,75018
+35099,Place Blanche  boulevard de Clichy  rue de Bruxelles,croisement,10/02/12,48.8838686375,2.33245035,1,75009
+35385,Rue Sedaine  boulevard Richard Lenoir,croisement,01/06/12,48.855449,2.3704872000000003,1,75011
+35575,Avenue de la Grande Armée  rue de Tilsitt,croisement,07/09/12,48.87442665,2.29299195,1,75016
+36303,Rue Petit  passage du Sud,croisement,21/12/11,48.8848321,2.3819703999999997,0,75019
+36609,Rue d'Ankara  avenue du Président Kennedy,croisement,12/10/12,48.8545368,2.2835924,1,75016
+36697,Rue Réaumur  rue de Turbigo,croisement,20/01/12,48.86545485,2.356127175,1,75003
+37472,Rue de Paradis  rue du Faubourg Poissonnière,croisement,22/06/12,48.8757887,2.3482432,1,75010
+37532,Rue de Sambre et Meuse  rue Sainte-Marthe,croisement,13/01/12,48.8745461,2.3732122,1,75010
+37792,Rue des Entrepreneurs  rue du Commerce,croisement,02/07/14,48.8436769,2.293009,3,75015
+37958,Rue Royale  rue Saint-Honoré,croisement,21/09/12,48.868382399999994,2.3232684,1,75008
+39003,Rue de Ponthieu  rue Paul Baudry,croisement,24/08/12,48.8717902,2.3061228,1,75008
+39069,Avenue Gambetta  rue Pelleport,croisement,22/06/12,48.8683061,2.4014206000000002,1,75020
+39250,Boulevard Auguste Blanqui  rue de la Santé,croisement,20/01/12,48.831892100000005,2.34112648,1,75014
+39331,Avenue du Général Sarrail  boulevard d'Auteuil,croisement,27/01/12,48.8454249,2.2559052000000004,1,75016
+39480,Boulevard Raspail  rue de Varenne,croisement,27/07/12,48.853388200000005,2.3262994999999997,1,75007
+39892,Boulevard Sérurier  rue des Bois,croisement,28/12/12,48.8787345,2.4013400000000003,1,75019
+39930,Rue Jacob  rue des Saints-Pères,croisement,17/02/12,48.8563151,2.3316717000000002,1,75007
+39992,Quai Branly  pont d'Iéna,croisement,10/02/12,48.859047801100104,2.29316884223752,1,75007
+40244,Boulevard de Sébastopol  rue de Turbigo,croisement,25/05/12,48.864386542857105,2.35151361428571,1,75003
+40936,Rue Léon  rue Cavé,croisement,25/05/12,48.8867347,2.3534361,1,75018
+41203,Avenue de la Porte d'Orléans  boulevard Romain Rolland,croisement,19/10/12,48.8198018,2.3257586,1,75014
+41361,Place de Clichy  avenue de Clichy,croisement,25/10/13,48.8836682,2.3273611,2,75008
+41562,Boulevard Raspail  boulevard du Montparnasse,croisement,25/05/12,48.8420199,2.32957174,1,75006
+41677,Boulevard du Montparnasse  rue de l'Arrivée,croisement,06/09/13,48.84412805,2.3230894,2,75015
+42055,Boulevard de la Chapelle  rue du Faubourg Saint-Denis,croisement,08/06/12,48.884313299999995,2.3592911,1,75010
+42222,Boulevard de Charonne  rue d'Avron,croisement,29/06/12,48.85135089999999,2.3985713,1,75020
+42301,Rue Charlemagne  rue des Jardins Saint-Paul,croisement,04/05/12,48.854037299999995,2.3611047999999997,1,75004
+42411,Cours de Vincennes  avenue du Docteur Arnold Netter,croisement,20/12/13,48.8472687666667,2.4062888,2,75012
+42595,Rue de Steinkerque  boulevard de Rochechouart,croisement,13/01/12,48.882916066666695,2.3438697,1,75018
+42789,Rue Jean Dolent  rue Messier,croisement,20/01/12,48.83378270000001,2.3380526,1,75014
+43139,Rue Davy  rue Legendre,croisement,17/02/12,48.89103239999999,2.3252197999999997,1,75017
+43190,Rue de Sèvres  boulevard Raspail,croisement,23/03/12,48.85157,2.326811,1,75006
+43339,Boulevard Arago  rue du Faubourg Saint-Jacques,croisement,20/01/12,48.834607,2.3369678,1,75014
+43592,Boulevard Voltaire  rue du Chemin Vert,croisement,09/11/12,48.85975139999999,2.3768492,1,75011
+43920,Rue Garancière  rue Saint-Sulpice,croisement,20/01/12,48.85131679999999,2.3357195,1,75006
+43956,Place Marcel Cerdan  boulevard de Grenelle  rue Humblot,croisement,17/02/12,48.850806899999995,2.29240538,1,75015
+44255,Rue Yvonne le Tac  rue Chappe  rue Tardieu,croisement,31/08/12,48.883993100000005,2.3414488999999996,1,75018
+44425,Avenue de la République  rue Saint-Maur,croisement,15/06/12,48.8646104,2.3780232999999997,1,75011
+44802,Rue de Cambrai  rue Benjamin Constant,croisement,31/08/12,48.895951700000005,2.3813082000000003,1,75019
+44805,Rue de Rivoli  rue du 29 Juillet,croisement,08/06/12,48.864453999999995,2.3301511,1,75001
+45343,Place des Ternes  boulevard de Courcelles,croisement,01/06/12,48.8783166333333,2.2985788333333304,1,75008
+45510,Rue de Bagnolet  rue des Pyrénées,croisement,21/12/11,48.859144799999996,2.4021237999999996,0,75020
+45724,Rue du Faubourg Saint-Martin  rue du 8 mai 1945,croisement,06/07/12,48.875907700000006,2.3597439666666697,1,75010
+45873,Quai de Jemmapes  boulevard Jules Ferry,croisement,27/04/12,48.868836200000004,2.3676123,1,75010
+45963,Place Raoul Dautry  boulevard de Vaugirard  rue de l'Arrivée,croisement,20/04/12,48.8418633,2.3199362,1,75015
+46604,Place Gambetta  avenue Gambetta,croisement,22/06/12,48.864888799999996,2.3983194,1,75020
+46685,Avenue du Général Lemonnier  rue de Rivoli,croisement,20/01/12,48.863736666666696,2.33207793333333,1,75001
+47183,Rue de Douai  place Adolphe Max,croisement,20/01/12,48.88329470000001,2.3304302000000003,1,75009
+47437,Rue de la Verrerie  rue du Renard,croisement,08/06/12,48.8583695,2.3518767000000005,1,75004
+47573,Avenue Daumesnil  rue de Rambouillet,croisement,03/02/12,48.84427935,2.3815313999999996,1,75012
+47973,Avenue de la Porte des Ternes  rue Gustave Charpentier,croisement,15/06/12,48.881508700000005,2.2817887999999997,1,75017
+48009,Boulevard Voltaire  rue de Charonne,croisement,21/12/11,48.8547007,2.3853169,0,75011
+48209,Quai de Valmy  rue Louis Blanc,croisement,09/03/12,48.87988,2.3673727,1,75010
+48238,Quai de l'Archevêché  pont de l'Archevêché,croisement,26/10/12,48.8517985,2.3517259,1,75004
+48567,Avenue des Gobelins  boulevard Saint-Marcel,croisement,01/06/12,48.836787,2.3518494999999997,1,75013
+48713,Boulevard Malesherbes  place de la Madeleine,croisement,27/04/12,48.8698875285714,2.3235518428571402,1,75008
+48778,Rue Léon  rue Doudeauville,croisement,09/11/12,48.888480799999996,2.3535673999999998,1,75018
+48781,Place Pigalle  rue Jean-Baptiste Pigalle,croisement,03/02/12,48.8819811,2.3371854,1,75009
+48813,Rue du Château Landon  rue Louis Blanc,croisement,21/09/12,48.8821487333333,2.36323903333333,1,75010
+48877,Rue George Bernard Shaw  rue Leroi Gourhan,croisement,27/01/12,48.8518667,2.2937289,1,75015
+49453,Avenue du Maine  rue du Départ,croisement,20/04/12,48.841156700000006,2.3215282999999998,1,75015
+49681,Rue des Pyrénées  rue d'Avron,croisement,18/01/13,48.8526951,2.4061084999999998,2,75020
+49804,Rue Marcadet  rue Damrémont,croisement,27/04/12,48.891664,2.3349627999999996,1,75018
+51066,Place de la Concorde  rue de Rivoli,croisement,11/01/13,48.86634065,2.3234727000000004,2,75001
+51128,Rue Ferdinand Duval  rue des Rosiers,croisement,09/03/12,48.85692720000001,2.3599122,1,75004
+51211,Boulevard Raspail  rue de Varenne,croisement,27/07/12,48.853388200000005,2.3262994999999997,1,75007
+51230,Quai de Valmy  rue Lucien Sampaix  rue Recollet,croisement,17/02/12,48.874455299999994,2.3628134,1,75010
+51743,Avenue de la Porte d'Orléans  place du 25 août 1944,croisement,04/05/12,48.821912100000006,2.3253912999999997,1,75014
+51930,Avenue Georges Mandel  rue Decamps,croisement,10/08/12,48.8639065,2.279454,1,75016
+52217,Avenue de Suffren  avenue Joseph Bouvard,croisement,13/01/12,48.85453905,2.2956351,1,75007
+52236,Rue Poulet  rue Dejean,croisement,,48.8875461,2.3500237,10,75018
+52599,Avenue Carnot  rue de Tilsitt,croisement,31/08/12,48.875046600000005,2.2938821,1,75017
+52675,Rue Polonceau  rue des Gardes,croisement,25/05/12,48.885703799999995,2.3529732000000005,1,75018
+53322,Boulevard Saint-Germain  rue Saint-Jacques,croisement,21/12/12,48.85080445,2.34552285,1,75005
+53448,Avenue des Gobelins  boulevard Saint- Marcel,croisement,01/06/12,48.836787,2.3518494999999997,1,75013
+53526,Rue de la Croix Nivert  rue Desnouettes,croisement,22/06/12,48.8358091,2.2896987999999996,1,75015
+53843,Boulevard Richard Lenoir  rue Saint-Sabin,croisement,27/07/12,48.856787100000005,2.37050115,1,75011
+54552,Rue Vercingétorix  rue d'Alésia,croisement,06/07/12,48.83274144,2.3115283,1,75014
+55054,Rue du Ranelagh  avenue du Président Kennedy,croisement,04/05/12,48.852706899999994,2.2806685,1,75016
+55255,Avenue de la Porte Chaumont  boulevard d'Indochine,croisement,01/02/13,48.886202775,2.39643815,2,75019
+55360,Boulevard de Charonne  avenue de Taillebourg,croisement,29/06/12,48.8502833,2.39857985,1,75020
+55428,Avenue de Tourville  avenue de Ségur,croisement,17/02/12,48.853819200000004,2.3122008999999997,1,75007
+55431,Rue Drouot  rue Rossini,croisement,03/02/12,48.8728349,2.340456,1,75009
+55825,Boulevard de Strasbourg  rue du Château d'Eau,croisement,28/09/12,48.8722812,2.3558801,1,75010
+56154,Avenue de Tourville  avenue de Villars,croisement,10/02/12,48.853792299999995,2.3127196,1,75007
+56510,Avenue Maurice d'Ocagne  avenue Georges Lafenestre,croisement,17/02/12,48.82508935,2.31121665,1,75014
+56522,Place Prosper Goubaux  boulevard des Batignolles,croisement,27/01/12,48.88131955,2.3164985000000002,1,75008
+56538,Rue de la Comète  rue de Grenelle,croisement,21/12/11,48.858028600000004,2.3093353,0,75007
+56633,Rue Pavée  rue du Roi de Sicile,croisement,20/01/12,48.8557079,2.3602088,1,75004
+56959,Rue du Faubourg Saint-Martin  boulevard de Magenta,croisement,19/10/12,48.8737684,2.35831476,1,75010
+57222,Rue Saint-Honoré  place Vendôme,croisement,07/09/12,48.8666152,2.3285827,1,75001
+57584,Rue de Châteaudun  rue La Fayette,croisement,09/11/12,48.875674100000005,2.3431433999999998,1,75009
+58185,Place Paul Léautaud  boulevard Berthier,croisement,15/06/12,48.88722905,2.29795545,1,75017
+58302,Avenue Daumesnil  boulevard Diderot,croisement,05/10/12,48.8463109,2.3773300363636403,1,75012
+58448,Avenue de France  boulevard Vincent Auriol,croisement,21/12/11,48.83624565,2.371460525,0,75013
+58557,Boulevard Saint-Marcel  boulevard de l'Hôpital,croisement,01/06/12,48.8399432333333,2.3617445333333302,1,75013
+58617,Boulevard des Invalides  rue de Grenelle,croisement,20/04/12,48.8579538,2.3151145,1,75007
+58709,Rue de Saussure  boulevard Pereire,croisement,13/01/12,48.8878424,2.3110955,1,75017
+59027,Avenue Bosquet  rue du Champ de Mars,croisement,11/05/12,48.856203625,2.304791275,1,75007
+59063,Quai de l'Hôtel de Ville  Pont d'Arcole,croisement,22/06/12,48.855984,2.3509036,1,75004
+59136,Rue de Tolbiac  avenue de Choisy,croisement,01/06/12,48.8261646,2.3599561000000002,1,75013
+59464,Boulevard Voltaire  boulevard Richard Lenoir,croisement,01/03/13,48.8626735812644,2.3719411514452697,2,75011
+59521,Rue de la Chaussée d'Antin  rue Halévy,croisement,04/05/12,48.8729517,2.3333015,1,75009
+59687,Rue de Maubeuge  rue Ambroise Paré,croisement,08/06/12,48.88177505,2.35418485,1,75010
+59729,Rue du Bac  rue de Varenne,croisement,27/07/12,48.85399,2.3238573,1,75007
+59975,Rue Balard  rue Saint-Charles,croisement,25/05/12,48.838393700000005,2.2783782,1,75015
+60061,Rue François Truffaut  rue de l'Ambroisie,croisement,09/11/12,48.8335761,2.3863417,1,75012
+60866,Rue Robert Houdin  rue du Faubourg du Temple,croisement,19/10/12,48.8713825,2.3750774,1,75011
+61079,Rue Saint-Lazare  rue d'Amsterdam,croisement,22/06/12,48.8755751,2.3266902000000003,1,75008
+61137,Rue du Château d'Eau  boulevard de Magenta,croisement,21/09/12,48.8689227666667,2.36253473333333,1,75010
+61905,Boulevard Diderot  rue de Picpus,croisement,21/12/11,48.8480645333333,2.3928274,0,75012
+61948,Place de Mexico  avenue d'Eylau,croisement,09/03/12,48.8653685,2.2833737999999997,1,75016
+62347,Pont de Tolbiac  quai François Mauriac,croisement,30/07/13,48.8322388,2.3797778,2,75013
+62384,Place du Tertre  place Jean Marais,croisement,16/11/12,48.8866273135544,2.3411010645620896,1,75018
+62793,Rue Monsigny  rue du Quatre Septembre  rue de Choiseul,croisement,27/01/12,48.8697226,2.3358124,1,75002
+63074,Rue des Longues Raies  boulevard Kellermann,croisement,19/10/12,48.82106395,2.3506139166666697,1,75013
+63118,Rue de Moscou  rue d'Amsterdam,croisement,24/02/12,48.8796403,2.3270201,1,75008
+63449,Rue de l'Ourcq  rue Curial,croisement,02/11/12,48.8938422,2.3733804,1,75019
+63591,Boulevard Masséna  avenue de la Porte d'Ivry,croisement,14/09/12,48.82147238,2.3694106,1,75013
+64061,Rue de Vaugirard  boulevard Raspail,croisement,15/06/12,48.8474056,2.328122,1,75006
+64143,Rue de Provence  rue de Caumartin,croisement,19/10/12,48.874202399999994,2.3283916000000002,1,75009
+64319,Avenue Jean Jaurès  avenue de Laumière,croisement,08/06/12,48.8851679,2.3793648,1,75019
+64332,Rue du Havre  rue Saint-Lazare,croisement,03/08/12,48.8755751,2.3266902000000003,1,75008
+64494,Rue du Poteau  boulevard Ney,croisement,27/04/12,48.8977065,2.3375039,1,75018
+64906,Place de la Nation  boulevard Diderot,croisement,20/04/12,48.848242625,2.39463905,1,75011
+64951,Rue de Caumartin  boulevard Haussmann,croisement,13/04/12,48.873613899999995,2.32834955,1,75009
+65260,Place de la Bastille  boulevard Beaumarchais,croisement,29/06/12,48.8537513,2.3690652,1,75004
+65346,Quai de Bercy  pont de Tolbiac,croisement,20/07/12,48.833616852056,2.3822925249952798,1,75012
+65583,Avenue Gambetta  rue Saint-Fargeau  rue Haxo,croisement,24/08/12,48.8717185,2.4043625,1,75020
+65680,Place du Panthéon  rue d'Ulm  rue Clotaire,croisement,21/12/11,48.8456867,2.3458936,0,75005
+65857,Avenue Bosquet  rue de Grenelle,croisement,01/06/12,48.8571261333333,2.30430386666667,1,75007
+65899,Boulevard Haussmann  rue Halévy,croisement,04/05/12,48.8729517,2.3333015,1,75009
+67014,Rue Jeanne d'Arc  boulevard Saint-Marcel,croisement,25/05/12,48.8383857666667,2.3569133,1,75013
+67079,Rue de Rivoli  boulevard de Sébastopol,croisement,27/04/12,48.85852962,2.3481556,1,75004
+67376,Avenue Jean Jaurès  rue Armand Carrel,croisement,27/04/12,48.883094,2.3714466,1,75019
+67726,Place du Puits de L'Ermite  rue de Quatrefages,croisement,21/12/11,48.8423958,2.3544918999999997,0,75005
+67865,Rue Coquillière  rue du Louvre,croisement,04/05/12,48.863896000000004,2.3423575,1,75001
+67935,Avenue Joseph Bédier  rue Maryse Bastié,croisement,19/10/12,48.8205716,2.3736919999999997,1,75013
+68231,Boulevard Voltaire  rue Saint-Ambroise,croisement,08/06/12,48.860986600000004,2.3747721,1,75011
+68334,Boulevard Auguste Blanqui  rue de la Glacière,croisement,21/12/11,48.83096015,2.34419005,0,75013
+68375,Rue Alexandre Dumas  boulevard de Charonne,croisement,21/12/11,48.854324928571394,2.3959764,0,75011
+68710,Boulevard du Palais  quai des Orfèvres,croisement,16/03/12,48.8543446,2.3448946,1,75004
+69064,Boulevard des Invalides  avenue de Tourville,croisement,11/05/12,48.8536931,2.3147330000000004,1,75007
+69103,Place du 18 Juin 1940  rue de Rennes,croisement,24/02/12,48.8441938,2.3241831000000004,1,75006
+69116,Boulevard Raspail  boulevard Saint-Germain,croisement,09/03/12,48.856128685714296,2.3256765285714303,1,75007
+69121,Rue de l'Université  rue de Constantine,croisement,16/03/12,48.8609738,2.3149665,1,75007
+69173,Avenue Duquesne  avenue de Ségur,croisement,03/02/12,48.8517333,2.310046,1,75007
+69662,Rue de la Jonquière  Villa Sainte-Croix,croisement,27/01/12,48.8935331,2.3242719,1,75017
+70417,Rue Platon  rue Falguière,croisement,21/12/11,48.8376095,2.310973,0,75015
+70605,Passage Saint-Ange  rue Jean Leclaire,croisement,17/02/12,48.8965734,2.327181,1,75017
+70766,Boulevard des Italiens  rue de la Michodière,croisement,03/08/12,48.871084499999995,2.3348,1,75002
+71064,Quai Anatole France  Pont Royal,croisement,12/10/12,48.85955429999999,2.3292843,1,75007
+71342,Rue Ramponeau  rue de Tourtille,croisement,27/04/12,48.8715607,2.381079,1,75020
+71418,Rue Réaumur  rue Saint-Martin,croisement,15/06/12,48.865977,2.353766,1,75003
+71821,Rue Regnault  rue du Château des Rentiers,croisement,13/01/12,48.8233653,2.3709062000000003,1,75013
+72190,Rue Léon Lhermitte  rue Gustave Larroumet,croisement,13/04/12,48.8428697,2.2965239,1,75015
+72329,Rue de Maubeuge  rue de Rochechouart,croisement,27/01/12,48.8783464,2.3450231,1,75009
+72618,Boulevard Poissonnière  rue Poissonnière,croisement,26/10/12,48.8706755,2.3478915000000002,1,75002
+73270,Boulevard de Rochechouart  rue de Clignancourt,croisement,03/02/12,48.8835576,2.3469998,1,75018
+73321,Boulevard Diderot  rue de Bercy,croisement,13/04/12,48.845501025,2.371097525,1,75012
+73432,Rue du Commandant Guilbaud  avenue de la Porte de Saint-Cloud,croisement,28/09/12,48.838662299999996,2.2517664,1,75016
+73562,Quai de Valmy  rue de Lancry,croisement,17/02/12,48.8729141,2.3637458,1,75010
+74254,Rue du Cygne  rue Saint-Denis,croisement,24/02/12,48.86311,2.3497538,1,75001
+74548,Boulevard de Clichy  boulevard de Rochechouart,croisement,04/05/12,48.882059355555604,2.3396467888888903,1,75009
+74609,Rue de Passy  Chaussée de la Muette,croisement,08/06/12,48.8581705,2.2748549,1,75016
+74617,Rue Polonceau  rue des Poissonniers,croisement,07/12/12,48.8859787,2.350098,1,75018
+74979,Boulevard Saint-Denis  boulevard de Strasbourg,croisement,15/06/12,48.8693003,2.3543185,1,75003
+75203,Rue Adolphe Mille  avenue Jean Jaurès,croisement,11/05/12,48.88780255,2.3892571,1,75019
+75329,Boulevard Vincent Auriol  quai d'Austerlitz,croisement,19/10/12,48.83754605,2.37359745,1,75013
+75710,Boulevard Saint-Germain  rue de Solférino,croisement,27/04/12,48.859024175,2.3226495,1,75007
+76006,Rue de la Chapelle  rue du Pré,croisement,21/09/12,48.897119,2.3593092,1,75018
+76964,Place de la Concorde  rue Royale,croisement,07/09/12,48.8667922,2.3220888,1,75008
+77612,Boulevard de la Chapelle  rue de Maubeuge,croisement,08/06/12,48.884049,2.3555506,1,75010
+77867,Boulevard du Montparnasse  avenue de l'Observatoire,croisement,21/12/11,48.839697555555496,2.33661333333333,0,75014
+77904,Rue de Bretagne  rue de Turenne,croisement,08/05/15,48.8619196,2.3646111000000003,4,75003
+77910,Rue Saint-Sulpice  rue de Tournon,croisement,08/06/12,48.85146470000001,2.3370564999999996,1,75006
+78121,Boulevard de la Chapelle  rue d'Aubervilliers,croisement,27/07/12,48.88443334046121,2.3647261896225698,1,75018
+78368,Rue de Dunkerque  rue La Fayette,croisement,25/05/12,48.8796152,2.3582234333333303,1,75010
+79336,Rue de l'Université  boulevard Saint-Germain,croisement,27/07/12,48.860002575,2.3216932999999997,1,75007
+79793,Rue Saint-Victor  rue de Pontoise,croisement,21/12/11,48.848347100000005,2.3508761000000002,0,75005
+79855,Rue Riquet  rue d'Aubervilliers,croisement,29/06/12,48.88970205,2.3680812875,1,75018
+80153,Rue de la Convention  rue de Vaugirard,croisement,31/08/12,48.837228100000004,2.2964564,1,75015
+80333,Rue du Château Landon  rue du Faubourg Saint-Martin,croisement,23/03/12,48.8789295,2.3623042,1,75010
+80870,Boulevard Ney  rue d'Aubervilliers,croisement,18/01/13,48.8987232,2.3702433,2,75018
+81112,Rue Caulaincourt  rue du Mont Cenis,croisement,31/08/12,48.8897924,2.3429434,1,75018
+81297,Rue Lecourbe  rue Cambronne,croisement,28/06/13,48.8426148,2.3026831000000003,2,75015
+81411,Place du Châtelet  avenue Victoria,croisement,21/12/11,48.8578925,2.3471832999999998,0,75001
+81580,Rue de Clignancourt  rue Marcadet,croisement,09/03/12,48.8904194,2.3484517999999994,1,75018
+81787,Rue Messier  boulevard Arago,croisement,27/01/12,48.8346635,2.3382127999999995,1,75014
+81850,Rue Saint-Maur  avenue de la République,croisement,15/06/12,48.8646104,2.3780232999999997,1,75011
+82057,Cours de Vincennes  boulevard de Charonne,croisement,16/11/12,48.848324700000006,2.399169925,1,75020
+82064,Rue de la Reynie  boulevard de Sébastopol,croisement,17/02/12,48.8600734,2.3490462000000005,1,75001
+82127,Boulevard de la Chapelle  rue Marx Dormoy,croisement,08/06/12,48.884539000000004,2.359327725,1,75018
+82315,Rue Ordener  rue Championnet  rue Vauvenargues,croisement,22/06/12,48.894178600000004,2.3326147,1,75018
+82473,Rue Ordener  rue Damrémont,croisement,11/05/12,48.8936311,2.3363575,1,75018
+82655,Rue Pierre Lescot  rue de la Cossonnerie,croisement,02/03/12,48.8616019,2.348033,1,75001
+83531,Boulevard Poniatowski  rue de Charenton,croisement,16/11/12,48.8318262,2.3976868,1,75012
+83922,Rue du Ruisseau  rue du Poteau,croisement,08/06/12,48.8948242,2.3407547,1,75018
+84362,Rue Faidherbe  rue du Faubourg Saint-Antoine,croisement,09/03/12,48.850090166666696,2.38459056666667,1,75011
+84425,Avenue de la Porte de Clichy  boulevard Bessières,croisement,04/05/12,48.894432200000004,2.3134665,1,75017
+84480,Boulevard Diderot  rue Pierre Bourdan,croisement,21/12/11,48.847781700000006,2.3905697999999997,0,75012
+84550,Place de la République  rue du Temple,croisement,12/10/12,48.86733315,2.36339605,1,75003
+84568,Boulevard Vincent Auriol  rue Nationale,croisement,19/10/12,48.832738,2.3621754,1,75013
+84620,Avenue du Maine  rue Froidevaux,croisement,14/09/12,48.8375422,2.3229412999999997,1,75014
+84653,Avenue de la Porte Pouchet  boulevard Bessières,croisement,11/05/12,48.89760212,2.32310092,1,75017
+84766,Allée de Longchamp  route des Moulins,croisement,02/08/13,48.865414799999996,2.2449882000000003,2,75016
+84795,Rue de Lobau  rue de Rivoli,croisement,30/03/12,48.856916999999996,2.3538291,1,75004
+85426,Rue Jean-Pierre Timbaud  rue Moret  rue de Vaucouleurs,croisement,16/11/12,48.8679881,2.378568,1,75011
+86043,Place du Colonel Fabien  rue de la Grange aux Belles,croisement,11/05/12,48.8777232,2.3700626000000002,1,75010
+86075,Rue Desnouettes  boulevard Victor,croisement,16/03/12,48.83446575,2.2840797999999998,1,75015
+86601,Place Suzanne Valadon  rue Tardieu,croisement,21/09/12,48.8842866,2.3425333,1,75018
+87208,Boulevard de Clichy  boulevard de Rochechouart,croisement,04/05/12,48.882059355555604,2.3396467888888903,1,75009
+87231,Rue de la Convention  rue de la Croix Nivert,croisement,16/11/12,48.839989700000004,2.2903618,1,75015
+87273,Rue de Courcelles  boulevard Haussmann,croisement,29/06/12,48.8750336,2.3091817999999997,1,75008
+87305,Rue de Châteaudun  rue Buffault,croisement,09/11/12,48.87578345,2.3420178,1,75009
+87406,Quai Voltaire  pont du Carrousel,croisement,25/05/12,48.8586269,2.3320972,1,75007
+87526,Place Franz Liszt  rue La Fayette,croisement,12/10/12,48.87792893946649,2.3516625113149803,1,75010
+87704,Rue de Rome  rue Cardinet,croisement,06/09/13,48.887350500000004,2.3141215,2,75017
+88097,Boulevard Poissonnière  rue Montmartre,croisement,09/03/12,48.871489000000004,2.3430679,1,75002
+89076,Avenue de France  rue de Tolbiac,croisement,20/12/13,48.8306416,2.3767522999999997,2,75013
+89248,Rue Victor Cousin  rue Cujas,croisement,21/12/11,48.8478175,2.3424223,0,75005
+89465,Rue Danielle Casanova  avenue de l'Opéra,croisement,12/10/12,48.8675112,2.3336619,1,75002
+89511,Rue Raymond Losserand  rue d'Alésia,croisement,23/03/12,48.8318162,2.3141451,1,75014
+89745,Rue Bisson  rue de Pali-Kao,croisement,09/03/12,48.870621899999996,2.3824484,1,75020
+90486,Rue du Faubourg du Temple  rue de Malte,croisement,08/06/12,48.868150799999995,2.3654095,1,75011
+90714,Place de l'Opéra  rue Auber,croisement,13/04/12,48.8710751,2.3318505000000003,1,75009
+91229,Boulevard Saint-Denis  boulevard de Sébastopol,croisement,22/06/12,48.86932225,2.354218775,1,75002
+91336,Avenue Pierre de Coubertin  boulevard Kellermann,croisement,01/06/12,48.8194089,2.3445901,1,75013
+91563,Place Auguste Baron  avenue de la Porte de la Villette,croisement,07/12/12,48.900659275,2.3889226000000003,1,75019
+91735,Boulevard Ornano  rue Ordener,croisement,04/05/12,48.8915753,2.3496042,1,75018
+92031,Rue du Vertbois  rue de Turbigo,croisement,18/01/13,48.8664224,2.3603077,2,75003
+92343,Rue des Bernardins  quai de la Tournelle,croisement,21/12/11,48.8511131,2.3513029999999997,0,75005
+92421,Rue du Faubourg du Temple  boulevard de la Villette,croisement,31/05/13,48.8720092,2.3768002999999998,2,75010
+92563,Boulevard Poissonnière  rue du Sentier,croisement,21/12/11,48.8708809,2.3467356,0,75009
+92903,Rue Vercingétorix  rue Pernety,croisement,17/02/12,48.835476175,2.3154342999999997,1,75014
+93044,Boulevard Soult  avenue de la Porte de Vincennes,croisement,23/11/12,48.8471384,2.4112682,1,75012
+93130,Boulevard Macdonald  avenue de la Porte de la Villette,croisement,28/12/12,48.8982596236067,2.3861753859387203,1,75019
+93133,Rue de la Convention  rue Saint-Charles,croisement,18/05/12,48.8434474,2.282755,1,75015
+93586,Place du Maroc  rue du Maroc,croisement,12/10/12,48.8864731,2.3693408,1,75019
+93698,Boulevard Ney  rue des Poissonniers,croisement,14/12/12,48.89830945,2.352501175,1,75018
+93792,Rue Julien Lacroix  rue des Couronnes,croisement,20/04/12,48.8702071,2.3844562999999996,1,75020
+93829,Avenue Raphaël  boulevard Suchet,croisement,09/11/12,48.8619196666667,2.2677212000000004,1,75016
+93838,Rue de Rennes  rue du Four,croisement,11/05/12,48.8524605,2.3319308,1,75006
+94149,Place de la Concorde  avenue Gabriel,croisement,29/06/12,48.8670939,2.3206535,1,75008
+94232,Rue Raymond Losserand  rue Pernety,croisement,09/03/12,48.8339619,2.318143,1,75014
+94261,Rue de Charonne  boulevard de Charonne,croisement,23/03/12,48.8565171666667,2.3942659,1,75011
+94447,Boulevard de Reuilly  rue Taine,croisement,13/07/12,48.839372499999996,2.3939144,1,75012
+94639,Rue de l'Orillon  boulevard de Belleville,croisement,20/01/12,48.870736799999996,2.3781429,1,75011
+95710,Boulevard Haussmann  rue Le Peletier,croisement,13/04/12,48.8722422,2.3382998,1,75009
+95960,Rue Boinod  rue du Simplon,croisement,27/04/12,48.8936049,2.3510305000000002,1,75018
+96016,Rue de Nantes  rue Barbanègre,croisement,07/09/12,48.8916607,2.3823987,1,75019
+96036,Rue du Petit Musc  rue Saint-Antoine,croisement,21/12/11,48.8536755,2.3656217999999996,0,75004
+96081,Place de la République  boulevard Voltaire,croisement,01/03/13,48.8667216,2.3651351000000003,2,75011
+96105,Rue du Ranelagh  rue Raynouard,croisement,03/02/12,48.85371370000001,2.2773925999999998,1,75016
+96167,Rue Riquet  avenue de Flandre,croisement,17/02/12,48.888439500000004,2.3739582666666696,1,75019
+97058,Rue de Tolbiac  rue Nationale,croisement,19/10/12,48.8270179,2.3664848999999997,1,75013
+97289,Rue de Clignancourt  rue Doudeauville,croisement,07/12/12,48.88840089999999,2.3479972,1,75018
+97645,Rue Nungesser et Coli  avenue de la Porte Molitor,croisement,17/01/14,48.8446734,2.2521948,3,75016
+98456,Avenue de la Porte de Clignancourt  rue Francis de Croisset,croisement,12/10/12,48.8994669,2.3442177666666697,1,75018
+98521,Rue Daubenton  rue Geoffroy Saint-Hilaire,croisement,21/12/11,48.8415849,2.3558292,0,75005
+98837,Rue du Cotentin  boulevard Pasteur,croisement,21/12/11,48.8390553666667,2.31656596666667,0,75015
+99808,Rue de la Solidarité  rue David d'Angers,croisement,27/04/12,48.882816299999995,2.3894057,1,75019
+99944,Rue la Boétie  rue du Faubourg Saint-Honoré,croisement,29/06/12,48.872840000000004,2.3107332,1,75008
+99977,Rue Saint-Jacques  rue Cujas,croisement,21/12/11,48.8473646,2.3436601,0,75005
+1011,Rue du Jour  rue Rambuteau,croisement,41558,48.8633706,2.3440813,10,75001
+1041,Quai des Orfèvres  rue de Harlay,croisement,43084,48.855764799999996,2.3425564,10,75001
+3036,Rue du Temple  rue Michel le Comte,croisement,42580,48.8618976,2.356922,10,75003
+3040,Rue Vieille du Temple  rue de la Perle,croisement,42559,48.859939000000004,2.3607352,10,75003
+4059,Boulevard Bourdon  rue Bassompierre,croisement,42866,48.8508921,2.367276,10,75004
+5052,Rue de la Montagne Sainte-Geneviève  rue Descartes,croisement,43291,48.847444200000005,2.3485142000000003,10,75005
+5057,Rue Claude Bernard  rue Vauquelin,croisement,42634,48.840292299999994,2.3460201,10,75005
+6034,Rue Auguste Comte  avenue de l'Observatoire  place André Honorat,croisement,42622,48.844274,2.337026,10,75006
+6037,Rue de Buci  rue de l'Ancienne Comédie,croisement,43363,48.8536645,2.3383857000000003,10,75006
+7016,Rue de Varenne  rue Vaneau,croisement,42808,48.8549506,2.3199504,10,75007
+7084,Rue de l'Université  avenue Franco-Russe,croisement,42989,48.8605335,2.2986461,10,75007
+7090,Avenue du Docteur Brouardel  alléeThomy Thierry,croisement,42517,48.855826,2.2959411,10,75007
+8028,Place Rio de Janeiro  rue de Lisbonne  rue de Monceau,croisement,42786,48.8775302,2.310372475,10,75008
+8071,Avenue Matignon  rue de Ponthieu,croisement,43095,48.8699287,2.3119315,10,75008
+8118,Rue Marbeuf  avenue George V,croisement,42650,48.86673270000001,2.3013008999999998,10,75008
+8128,Rue du Rocher  rue de Monceau,croisement,42649,48.8807416,2.3170527,10,75008
+8133,Avenue Montaigne  rue Bayard,croisement,43374,48.867659075,2.30771425,10,75008
+8134,Avenue Montaigne  rue Clément Marot,croisement,43059,48.866391899999996,2.3051152999999998,10,75008
+8138,Avenue Montaigne  place de la Reine Astrid,croisement,43059,48.865243266666695,2.3030058999999996,10,75008
+9059,Rue Blanche  rue Jean-Baptiste Pigalle,croisement,42607,48.8778564,2.3319307,10,75009
+9060,Rue de la Rochefoucauld  rue d'Aumale,croisement,43017,48.878654299999994,2.3345307,10,75009
+10064,Rue du Faubourg Saint-Denis  rue de Metz,croisement,42657,48.8709596,2.3532949,10,75010
+10100,Cours de Vincennes  avenue du Trône,croisement,41068,48.848092,2.399194,10,75012
+10124,Rue de Rennes  rue de Vaugirard,croisement,41047,48.8470504666667,2.32697436666667,10,75006
+10155,Avenue Ernest Reyer  rue Edmond Rousse,croisement,41271,48.8223979,2.3239111,10,75014
+10372,Rue de la Tour d'Auvergne  rue Milton,croisement,41222,48.8793363,2.3427941000000003,10,75009
+10439,Rue Berger  rue Pierre Lescot,croisement,40991,48.8610208,2.3477460999999997,10,75001
+10476,Boulevard de Grenelle  rue du Commerce,croisement,40898,48.848978,2.2977937,10,75015
+10510,Rue Cardinet  rue Lemercier,croisement,41068,48.890252399999994,2.3172175,10,75017
+10568,Rue de Crimée  rue Botzaris,croisement,40942,48.8795794,2.3895058,10,75019
+10642,Rue de Rivoli  rue des Bourdonnais,croisement,41257,48.85962132,2.34481172,10,75001
+11056,Rue de Charonne  rue de Lappe,croisement,42832,48.8528255,2.3745038,10,75011
+11106,Boulevard Saint-Michel  rue Serpente,croisement,41201,48.85185495,2.3433429,10,75006
+11144,Avenue d'Italie  rue du Tage,croisement,41159,48.8222105,2.3585178,10,75013
+11264,Avenue de Ségur  avenue de Suffren,croisement,41005,48.8478999,2.3061507999999997,10,75007
+11361,Place Saint-Thomas d'Aquin  rue Saint-Thomas d'Aquin,croisement,40963,48.8560317,2.327245,10,75007
+11453,Rue des Plantes  rue Antoine Chantin,croisement,41180,48.827597600000004,2.3209948,10,75014
+11943,Avenue des Ternes  avenue Niel,croisement,41446,48.878646100000005,2.2942209,10,75017
+12069,Rue de Charenton  boulevard de Reuilly,croisement,42704,48.838887266666696,2.3893259666666697,10,75012
+12079,Avenue Albert Bartholomé  rue André Theuriet,croisement,40977,48.828479200000004,2.2966449,10,75015
+12357,Rue du Faubourg Saint-Antoine  rue de la Forge Royale,croisement,40970,48.85045039999999,2.3801127999999996,10,75011
+12770,Rue de l'Ourcq  rue Léon Giraud,croisement,41271,48.888284399999996,2.3843007000000003,10,75019
+13085,Rue Bobillot  place Paul Verlaine  rue Vandrezanne,croisement,42807,48.827439899999995,2.352029,10,75013
+13109,Avenue Pierre Mendès France  rue Paul Klee,croisement,inconnue,48.838899700000006,2.36993095,10,75013
+13257,Rue Mayran  rue Rochambeau,croisement,40919,48.877117600000005,2.3457401,10,75009
+13312,Boulevard Saint-Jacques  rue Ferrus,croisement,40898,48.8317078,2.3408724,10,75014
+13314,Rue du Borrégo  rue du Télégraphe,croisement,41082,48.8727304,2.399251,10,75020
+13418,Avenue Kléber  avenue des Portugais,croisement,41082,48.8712666666667,2.29329093333333,10,75016
+13583,Boulevard Raspail  rue Huyghens,croisement,40935,48.8414875,2.3297751,10,75014
+13772,Place Jeanne d'Arc  place Souham,croisement,41166,48.8292967,2.3682423,10,75013
+14063,Rue de la Sablière  rue Hippolyte Maindron,croisement,42832,48.8320682,2.3222406,10,75014
+14074,Rue Pernety  rue de l'Ouest,croisement,42622,48.834768200000006,2.3168599999999997,10,75014
+14157,Rue Saint-Dominique  rue Cler,croisement,41229,48.859227399999995,2.3051352,10,75007
+14531,Rue Petitot  rue des Fêtes,croisement,40998,48.8766088,2.3925127999999996,10,75019
+14602,Rue Raymond Losserand  rue Pierre Larousse,croisement,40956,48.8306854,2.3117493,10,75014
+15043,Boulevard Victor  avenue de la Porte de Sèvres,croisement,42998,48.836019933333304,2.27817163333333,10,75015
+15095,Rue Linois  rue Emeriau,croisement,42796,48.847685299999995,2.2841359,10,75015
+15116,Rue de Vaugirard  place Adolphe Chérioux,croisement,42816,48.8395224,2.3011469333333303,10,75015
+15301,Rue Merlin  rue Duranti,croisement,40963,48.860980100000006,2.3851317,10,75011
+15476,Rue de Tolbiac  rue du Chevaleret,croisement,40991,48.8298819490051,2.3754785003514303,10,75013
+15560,Place de la République  rue du Faubourg du Temple,croisement,41446,48.867760600000004,2.3643363999999996,10,75010
+15950,Rue du Moulin de la Vierge  rue Decrès,croisement,40956,48.8326702,2.3144866000000004,10,75014
+15991,Rue Saint-Denis  rue Sainte-Apolline,croisement,41173,48.8692465,2.3523917,10,75002
+16013,Rue Cortambert  rue Nicolo,croisement,42919,48.8601468,2.2781075,10,75016
+16056,Place Denfert-Rochereau  rue de Grancey,croisement,40898,48.8340769,2.3309203,10,75014
+16134,Avenue Ferdinand Buisson  avenue Georges Lafont  avenue Félix d'Herelle,croisement,42811,48.834981299999995,2.2551291,10,75016
+16145,Boulevard Murat  rue Daumier,croisement,42636,48.8392013,2.2647302000000002,10,75016
+16148,Rue Pergolèse  rue Marbeau,croisement,Début 2019,48.8736993,2.2817627000000003,10,75016
+16334,Rue des Poissonniers  rue Myrha,croisement,41250,48.8867071,2.3507436,10,75018
+16561,Boulevard de la Chapelle  rue Caplat,croisement,42058,48.884086200000006,2.35241835,10,75018
+16887,Quai de la Mégisserie  Pont Neuf,croisement,40898,48.8584826,2.3424642999999996,10,75001
+16986,Avenue d'Italie  rue de Tolbiac,croisement,41131,48.826184999999995,2.3572626,10,75013
+17064,Avenue de Saint-Ouen  rue Navier,croisement,43413,48.895556,2.3282949,10,75017
+17153,Boulevard Mortier  place de l'Adjudant Vincenot,croisement,41250,48.8705559333333,2.4086659333333302,10,75020
+17168,Rue Saint-Charles  rue Varet,croisement,41054,48.840084600000004,2.2798354,10,75015
+17326,Rue d'Antin  avenue de l'Opéra,croisement,41194,48.86875845,2.33311695,10,75002
+17774,Rue Brisemiche  rue du Cloître Saint-Merri,croisement,41068,48.859051799999996,2.3514115,10,75004
+17942,Rue des Pyrénées  rue du Retrait,croisement,41089,48.867791700000005,2.3962354,10,75020
+18002,Rue Lamarck  rue Carpeaux,croisement,42935,48.8909513,2.3314221,10,75018
+18087,Rue de la Goutte d'Or  rue des Islettes,croisement,42688,48.885142200000004,2.3507852000000002,10,75018
+18088,Rue de Panama  rue Léon,croisement,42656,48.8876222,2.3534917,10,75018
+18094,Rue Riquet  rue Pajol,croisement,42804,48.8899235,2.3630948,10,75018
+18111,Rue des Poissonniers  rue Championnet,croisement,42955,48.8951114,2.3529252,10,75018
+18308,Rue Curnonsky  rue Raymond Pitet,croisement,41075,48.89032460000001,2.2961426,10,75017
+18325,Rue de Belleville  rue Piat,croisement,41061,48.8734835,2.3831002,10,75020
+18332,Rue du Chevaleret  rue Clisson,croisement,41103,48.833278299999996,2.3696580000000003,10,75013
+18930,Rue de Dunkerque  rue de Saint-Quentin,croisement,41012,48.87973805,2.3559495,10,75010
+19077,Rue de Belleville  rue Jules Romains,croisement,42817,48.8725304,2.3785449,10,75019
+19078,Boulevard de la Villette  rue de Sambre et Meuse,croisement,42929,48.87435735,2.3741762000000004,10,75019
+19089,Rue Mathis  rue Archereau,croisement,42649,48.8910811,2.3737192000000005,10,75019
+19090,Rue Curial  rue Mathis,croisement,42832,48.8913515,2.3722417,10,75019
+19196,Boulevard Murat  place de la Porte Molitor,croisement,40935,48.8453547,2.2575332,10,75016
+19963,Rue de Wattignies  rue de Fécamp,croisement,41159,48.835182700000004,2.3987647,10,75012
+20057,Rue des Orteaux  rue de la Réunion,croisement,42804,48.856874100000006,2.3999943999999998,10,75020
+20059,Rue des Pyrénées  rue Vitruve,croisement,42713,48.8576312,2.4038934,10,75020
+20063,Rue du Clos  rue Saint-Blaise,croisement,42636,48.8577499,2.4075757,10,75020
+20065,Cours de Vincennes  rue des Maraîchers,croisement,42629,48.8475619333333,2.4077735666666698,10,75020
+20067,Rue Olivier Métra  rue de l'Ermitage,croisement,42725,48.8727653,2.3942092,10,75020
+20085,Rue des Haies  passage Josseaume,croisement,42839,48.8545711,2.4030605,10,75020
+20103,Place des Ternes  avenue de Wagram,croisement,41061,48.8784558,2.29844775,10,75008
+20956,Boulevard Haussmann  avenue de Messine,croisement,41362,48.8752814,2.31530205,10,75008
+21230,Rue de la Victoire  rue Saint-Georges,croisement,41040,48.8751492,2.3371452,10,75009
+21909,Boulevard de la Tour Maubourg  rue de l'Université,croisement,41439,48.8611198,2.3102808999999995,10,75007
+22078,Rue Ordener  rue du Poteau,croisement,41040,48.89261,2.3437906,10,75018
+23065,Avenue d'Italie  rue Vandrezanne,croisement,41201,48.8283279,2.356611,10,75013
+23076,Place de la Bourse  rue Notre-Dame des Victoires  rue Réaumur,croisement,41852,48.869006299999995,2.3421068,10,75002
+23596,Place de l'Opéra  avenue de l'Opéra,croisement,41012,48.8700729,2.3325517000000002,10,75009
+23987,Rue de la Paix  rue Danielle Casanova,croisement,41215,48.8683166,2.3302706000000004,10,75001
+24022,Place Blanche  rue Blanche,croisement,40977,48.88361629999999,2.3324084,10,75018
+24047,Place de la Bourse  rue Notre-Dame des Victoires,croisement,40949,48.869006299999995,2.3421068,10,75002
+25289,Boulevard de Ménilmontant  rue de Tlemcen,croisement,41040,48.864169633333304,2.3861582666666696,10,75020
+25540,Place de l'Opéra  boulevard des Capucines,croisement,41012,48.8706543,2.33230735,10,75009
+25626,Quai de Jemmapes  rue Alibert,croisement,40956,48.8710176,2.3659221,10,75010
+25765,Rue Cantagrel  rue Eugène Oudiné,croisement,41432,48.8262393,2.3776007000000003,10,75013
+25808,Rue Piat  rue des Envierges,croisement,40942,48.8714621,2.3860226000000004,10,75020
+27643,Place de la République  boulevard du Temple,croisement,41166,48.8664897,2.3648013,10,75003
+27756,Place de la Porte de Saint-Cloud  avenue Georges Lafont,croisement,41180,48.83749435,2.2568162,10,75016
+27843,Quai d'Orléans  rue Jean du Bellay,croisement,40921,48.852723700000006,2.3533322,10,75004
+28858,Rue d'Avron  boulevard Davout,croisement,41222,48.8534855,2.4105157999999998,10,75020
+29435,Rue Albert  rue Jean Fautrier,croisement,40956,48.8258016,2.371827,10,75013
+29510,Rue Léon Frot  rue de la Roquette,croisement,41026,48.8585346,2.3836681,10,75011
+29697,Rue Drouot  boulevard Haussmann,croisement,41012,48.871998100000006,2.3400532000000003,10,75002
+29712,Avenue de France  rue Raymond Aron,croisement,41579,48.8344579,2.3731375,10,75013
+29770,Quai de Gesvres  rue Saint-Martin,croisement,40898,48.8567219,2.3489342,10,75004
+30386,Rue de Vaugirard  rue Guynemer,croisement,40898,48.8486644,2.3325752,10,75006
+31779,Rue de Grenelle  rue de Bellechasse,croisement,40991,48.85647120000001,2.3211157000000004,10,75007
+32213,Place d'Anvers  boulevard de Rochechouart,croisement,40921,48.882794,2.3445278999999997,10,75009
+33039,Place de la Bastille  rue de Lyon,croisement,41222,48.852813,2.36919755,10,75012
+33167,Rue des Saints-Pères  rue de Lille,croisement,40963,48.857619299999996,2.3327512,10,75007
+33367,Avenue Secrétan  boulevard de la Villette,croisement,41159,48.8825145,2.3703613999999997,10,75019
+34140,Avenue de Flandre  rue de l'Argonne,croisement,41166,48.894315399999996,2.3817076,10,75019
+34320,Boulevard Davout  rue Saint-Blaise,croisement,41250,48.856254799999995,2.409997,10,75020
+34560,Avenue Marceau  rue Galilée,croisement,41117,48.870952,2.2975075,10,75016
+37319,Boulevard Suchet  avenue Ingres,croisement,40898,48.8573396666667,2.26471436666667,10,75016
+37644,Avenue Courteline  boulevard périphérique intérieur,croisement,41229,48.84399040201429,2.4138313971506,10,75012
+38438,Rue du Faubourg Saint-Martin  rue du Château d'Eau,croisement,41187,48.8717605333333,2.3571757333333303,10,75010
+39029,Boulevard Lefebvre  rue Jean Sicard,croisement,40970,48.8290427,2.2989613999999996,10,75015
+39271,Boulevard Saint-Michel  rue Soufflot,croisement,40935,48.847338,2.3408341,10,75005
+39504,Boulevard Henri IV  rue Castex,croisement,41096,48.852222999999995,2.36594995,10,75004
+40753,Rue Daunou  rue de la Paix,croisement,40998,48.869556,2.3315516,10,75002
+41692,Rue de Courcelles  avenue Stéphane Mallarmé,croisement,41432,48.8875527,2.29471655,10,75017
+43043,Rue de la Harpe  rue de la Huchette,croisement,41292,48.853244200000006,2.3445887,10,75005
+43214,Boulevard de Magenta  rue de Lancry,croisement,41068,48.870536,2.36120865,10,75010
+43643,Avenue de Versailles  rue Wilhem,croisement,41117,48.8453084,2.2715954,10,75016
+43793,Rue Caulaincourt  rue Joseph de Maistre,croisement,41089,48.886685899999996,2.33255283333333,10,75018
+44621,Allée de Longchamp  allée de la Reine Marguerite,croisement,41488,48.86759804,2.2508458,10,75016
+45415,Boulevard des Filles du Calvaire  rue des Filles du Calvaire,croisement,41096,48.8631014,2.3667344,10,75003
+46275,Rue Marx Dormoy  rue du Département,croisement,41110,48.8868319,2.3596321,10,75018
+46817,Rue des Poissonniers  rue Marcadet,croisement,41075,48.8904672,2.3514506,10,75018
+47167,Boulevard Ney  rue Charles Hermite,croisement,41257,48.8986177,2.3642982000000003,10,75018
+47653,Rue du Dessous des Berges  rue Eugène Oudiné  rue de Patay,croisement,40898,48.8256119,2.3747632000000003,10,75013
+47824,Rue Jeanne d'Arc  rue de Domrémy  rue de Patay,croisement,41145,48.8286314,2.3699147000000003,10,75013
+48934,Rue des Poissonniers  rue Doudeauville,croisement,41222,48.8882958,2.3515403999999998,10,75018
+50044,Rue Mouffetard  rue de l'Epée de Bois,croisement,41047,48.8414434,2.3496366,10,75005
+50581,Rue Linné  rue des Boulangers,croisement,40942,48.84611629999999,2.3545258999999996,10,75005
+51005,Quai Saint-Bernard  rue Cuvier,croisement,41096,48.846846,2.3609481,10,75005
+51595,Boulevard de Clichy  rue Caulaincourt,croisement,41089,48.8847104666667,2.32955163333333,10,75018
+51650,Boulevard Sérurier  rue David d'Angers,croisement,41152,48.8813283,2.3966895,10,75019
+52282,Rue Lecourbe  villa Thoréton,croisement,40998,48.837421899999995,2.2850612999999997,10,75015
+52670,Rue d'Auteuil  rue Michel-Ange,croisement,40935,48.8479916,2.2641167,10,75016
+52920,Boulevard Voltaire  rue de Montreuil,croisement,41033,48.8504127571429,2.3925377999999995,10,75011
+53004,Rue du Plateau  rue des Alouettes,croisement,40956,48.8779302,2.3855458,10,75019
+53155,Rue de la Brèche aux Loups  rue de la Durance,croisement,41033,48.8378649,2.394425,10,75012
+53494,Rue Clovis  rue Descartes,croisement,40921,48.846162,2.3490982000000002,10,75005
+53603,Esplanade Max Guedj  rue Balard,croisement,41124,48.840787799999994,2.2779349,10,75015
+54318,Rue Perrée  rue Eugène Spuller,croisement,41089,48.8643759,2.3618135,10,75003
+54506,Avenue de Saint-Ouen  rue de la Jonquière,croisement,41152,48.8930061,2.3274236,10,75018
+54884,Rue de Ménilmontant  rue Henri Chevreau,croisement,41082,48.868663700000006,2.3896284,10,75020
+55563,Avenue de Clichy  passage Petit Cerf,croisement,40921,48.8929794,2.3160172,10,75017
+56039,Place de Wagram  boulevard Malesherbes,croisement,40956,48.88737929999999,2.3047399,10,75017
+56623,Rue de Grenelle  rue de Talleyrand,croisement,41054,48.8579335,2.3151707999999998,10,75007
+56891,Avenue Jean Jaurès  sente des Dorées,croisement,41040,48.8887566,2.39313405,10,75019
+58888,Avenue de la Porte de Bagnolet  avenue Cartellier  avenue Ibsen,croisement,41201,48.864757399999995,2.4121043999999996,10,75020
+58978,Rue la Boétie  rue d'Artois,croisement,41173,48.872154200000004,2.3090607000000003,10,75008
+60800,Boulevard des Invalides  rue de Varenne,croisement,41103,48.856168,2.3150232999999996,10,75007
+60857,Rue Boulard  rue Daguerre,croisement,40898,48.8341217,2.3291381,10,75014
+62302,Rue Petit  rue Georges Auric,croisement,40928,48.8853231,2.3850833,10,75019
+62732,Boulevard de l'Hôpital  rue Pinel,croisement,41103,48.8345661,2.3577985,10,75013
+64111,Rue Monsieur Le Prince  rue Racine,croisement,40956,48.849944799999996,2.3399882,10,75006
+64215,Avenue Foch  avenue de Malakoff,croisement,41166,48.8731614,2.2844361,10,75016
+64258,Rue Vaucanson  rue du Vertbois,croisement,41047,48.8672969,2.3568082,10,75003
+64594,Avenue de Choisy  rue Baudricourt,croisement,41061,48.82367670000001,2.3618792999999996,10,75013
+65530,Rue Falguière  rue Bargue,croisement,40898,48.8370855,2.3106522000000003,10,75015
+65614,Rue Masseran  rue Eblé,croisement,41173,48.8491315,2.3138457999999997,10,75007
+66378,Rue des Rosiers  rue Vieille du Temple,croisement,40977,48.85790120000001,2.3578607999999996,10,75004
+66461,Quai des Célestins  pont Marie,croisement,41096,48.8533327,2.3578164,10,75004
+66817,Boulevard Berthier  rue Albert Roussel,croisement,41726,48.8912578,2.3062501,10,75017
+67140,Rue de Rivoli  rue de Marengo,croisement,41068,48.8614866666667,2.33912686666667,10,75001
+67483,Rue Reynaldo Hahn  rue Paganini,croisement,41222,48.8513016,2.4118841,10,75020
+67972,Rue Myrha  rue Affre,croisement,41292,48.8872771,2.3554522,10,75018
+68021,Boulevard Auguste Blanqui  rue Corvisart,croisement,40898,48.8296927,2.3494316000000004,10,75013
+68828,Avenue de Friedland  rue du Faubourg Saint-Honoré,croisement,41096,48.8749612,2.3053835,10,75008
+69567,Place Saint-Michel  pont Saint-Michel,croisement,41362,48.8537909,2.3442925,10,75005
+70446,Avenue de Clichy  rue Brochant,croisement,41026,48.8905967,2.3201848,10,75017
+70540,Rue d'Alésia  villa d'Alésia,croisement,41215,48.828720000000004,2.3242922000000004,10,75014
+71637,Rond-point du pont Mirabeau  quai André Citroën,croisement,40998,48.846124100000004,2.27718388,10,75015
+72520,Rue d'Amsterdam  rue de Londres,croisement,41082,48.8778593,2.3269497,10,75008
+72782,Rue des Petits Champs  rue Sainte-Anne,croisement,41792,48.86698870000001,2.3358764,10,75002
+72870,Rue Radziwill  rue des Petits Champs,croisement,40977,48.8661063,2.3396537,10,75002
+72971,Boulevard de Magenta  rue de Nancy,croisement,41187,48.87202695,2.3597928,10,75010
+73849,Rue Saint-Julien le Pauvre  rue Galande,croisement,41054,48.8520836,2.3466044999999998,10,75005
+74824,Rue des Saints-Pères  rue Perronet,croisement,41054,48.8551102,2.3307623,10,75006
+75111,Boulevard de la Villette  rue La Fayette,croisement,41124,48.8826727,2.3698584,10,75010
+75378,Rue Compans  rue Henri Ribière,croisement,40956,48.8761542,2.3949151,10,75019
+75399,Rue du Faubourg Saint-Denis  rue Cail,croisement,41054,48.8828527,2.3590343999999996,10,75010
+75510,Rue Montgallet  rue de Reuilly,croisement,40921,48.844508399999995,2.3899385,10,75012
+76059,Rue de Ménilmontant  rue Hélène Jakubowicz,croisement,41089,48.8702161,2.3972144,10,75020
+76356,Avenue de la Porte des Poissonniers  rue du Professeur Gosset,croisement,41173,48.9014381,2.3519722,10,75018
+76722,Rue Monge  rue Larrey,croisement,40949,48.843004,2.3521901,10,75005
+77583,Place de la Madeleine  rue Royale,croisement,41082,48.8692559,2.3238947,10,75008
+77702,Rue de Courcelles  boulevard de Courcelles,croisement,41446,48.879146500000004,2.3031146000000002,10,75008
+77797,Avenue Marc Sangnier  rue Wilfrid Laurier,croisement,41208,48.8262605,2.3062598,10,75014
+78022,Rue Réaumur  rue des Petits Carreaux,croisement,41292,48.8673701,2.3473075,10,75002
+78185,Boulevard de l'Hôpital  rue Jeanne d'Arc,croisement,41103,48.8365766,2.3592953,10,75013
+78263,Quai Anatole France  rue de la Légion d'Honneur,croisement,41033,48.860779,2.3253111,10,75007
+78605,Rue Jussieu  rue Cuvier,croisement,40898,48.844828299999996,2.3569847000000004,10,75005
+78928,Avenue Hoche  rue du Faubourg Saint-Honoré,croisement,41096,48.8765534,2.3017001,10,75008
+79048,Boulevard Voltaire  rue Léon Frot,croisement,41103,48.8528012,2.38856365,10,75011
+79289,Rue d'Alsace  rue des deux Gares,croisement,41068,48.878365,2.358432,10,75010
+79782,Place du Maréchal de Lattre de Tassigny  route de Suresnes,croisement,41180,48.87154325,2.2741206000000003,10,75016
+79901,Rue de Rivoli  rue de Castiglione,croisement,41054,48.865327866666696,2.32728386666667,10,75001
+79965,Boulevard Bourdon  boulevard Morland,croisement,40917,48.84745505,2.365659825,10,75004
+80383,Place Saint-Ferdinand  rue Brunel,croisement,41026,48.8779639,2.2880972,10,75017
+81258,Rue de Châteaudun  rue Taitbout,croisement,41425,48.876175,2.3353568,10,75009
+82224,Rue de la Colonie  rue de la Fontaine à Mulard,croisement,40898,48.8239425,2.3502341,10,75013
+83358,Rue d'Alésia  rue Didot,croisement,41180,48.830530700000004,2.3192593999999995,10,75014
+84190,Rue de Sèvres  rue Vaneau,croisement,41481,48.84842020000001,2.3205421000000004,10,75007
+84274,Rue Popincourt  rue de la Roquette,croisement,40991,48.8567821,2.3778584,10,75011
+84772,Rue du Faubourg Poissonnière  rue Richer,croisement,40942,48.8740226,2.3479115000000004,10,75009
+84809,Rue des Archives  rue Rambuteau,croisement,40921,48.860074700000006,2.3568796,10,75003
+84854,Rue de Turbigo  rue du Temple,croisement,41026,48.8668075,2.36193235,10,75003
+85482,Avenue de Ségur  avenue de Suffren,croisement,41005,48.8478999,2.3061507999999997,10,75007
+86066,Rue du Faubourg Saint-Denis  rue Demarquay,croisement,41327,48.8812671,2.3581003,10,75010
+86086,Boulevard Malesherbes  rue de Lisbonne,croisement,41033,48.8777831,2.3163071,10,75008
+86183,Rue Saint-Dominique  rue Amélie,croisement,41229,48.859647100000004,2.307343,10,75007
+86313,Quai Malaquais  rue Bonaparte,croisement,40898,48.8577271,2.3353447999999997,10,75006
+86611,Rue de Vaugirard  rue d'Assas,croisement,40921,48.8478164,2.3295627999999997,10,75006
+86717,Boulevard Beaumarchais  rue des Arquebusiers,croisement,41166,48.859251799999996,2.367673,10,75003
+87034,Allée de Longchamp  route de Sèvres à Neuilly,croisement,41488,48.8637152,2.239884,10,75016
+87044,Place de la Nation  rue du Faubourg Saint-Antoine,croisement,41019,48.84854055,2.394822675,10,75011
+88238,Avenue Parmentier  rue Saint-Ambroise,croisement,41432,48.8619987,2.3769823,10,75011
+88798,Rue d'Avron  rue Tolain,croisement,41362,48.852325799999996,2.4040265,10,75020
+88838,Place de la Bastille  rue de la Roquette,croisement,41061,48.8532033,2.3696736,10,75011
+88886,Rond-point de la Chapelle  rue Raymond Queneau,croisement,41103,48.8953347,2.3596692999999997,10,75018
+89165,Place de la Porte de Saint-Cloud  avenue de Versailles,croisement,41201,48.837985100000004,2.257574,10,75016
+89516,Boulevard des Italiens  rue Le Peletier  rue Favart,croisement,41012,48.871641100000005,2.3380623,10,75002
+91182,Avenue de la Grande Armée  rue d'Argentine,croisement,41082,48.87514995,2.29041255,10,75017
+91357,Place de la Madeleine  rue Tronchet,croisement,41019,48.87082835,2.32503595,10,75008
+92088,Avenue de la Porte de Saint-Ouen  boulevard Ney,croisement,41166,48.89774370000001,2.3289668999999997,10,75017
+93299,Rue du Louvre  rue Montmartre,croisement,41159,48.8673275,2.3439549,10,75002
+95588,Boulevard Poissonnière  rue du Faubourg Montmartre,croisement,40977,48.871489000000004,2.3430679,10,75009
+95629,Place du Costa Rica  rue de Passy  rue Benjamin Franklin,croisement,40942,48.858523600000005,2.2845607999999995,10,75016
+96475,Rue Vivienne  boulevard Montmartre,croisement,41082,48.871724,2.3416094,10,75002
+96500,Boulevard Pasteur  rue de l'Armorique,croisement,40928,48.8403066,2.3148577,10,75015
+96546,Rue Monge  rue Censier,croisement,40963,48.8398269666667,2.3513507000000002,10,75005
+97975,Boulevard Soult  avenue de Saint-Mandé,croisement,41229,48.84426486,2.41016536,10,75012
+98051,Place de la République  rue du Faubourg du Temple,croisement,41208,48.867760600000004,2.3643363999999996,10,75010
+98526,Rue du Vieux Colombier  rue Bonaparte,croisement,40898,48.851299299999994,2.3328947,10,75006
+98601,Boulevard Haussmann  rue du Havre,croisement,41054,48.873766499999995,2.32702995,10,75008
+98765,Boulevard Davout  rue Paganini,croisement,41250,48.8513146,2.41116403333333,10,75020
+99000,Quai François Mitterrand  Pont du Carrousel,croisement,41334,48.8601121,2.3333522999999996,10,75001
